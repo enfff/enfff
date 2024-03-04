@@ -8,7 +8,7 @@
 
 <h3 align="left">Facts for recruiters</h3>
 
-* Currently studying Computer Engineering in Automation and Intelligent Cyber-Physical Systems. Here's the [study ](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
+* Currently studying Computer Engineering in Automation and Intelligent Cyber-Physical Systems. Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
 * Bachelor's degree in Ingegneria Informatica at Università degli Studi di Palermo. Here's the [study plan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjskIf1-eSBAxUThf0HHY2lA8EQFnoECBcQAQ&url=https%3A%2F%2Foffertaformativa.unipa.it%2Foffweb%2Freports%3Freport%3Dmanifesto.pdf%26oidCurriculum%3D18008%26lingua%3DITA&usg=AOvVaw1oKaRAOAVP_F0SH26nH07k&opi=89978449).
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
 * Genuinely fond of teamworking
@@ -33,7 +33,7 @@
 
 --- -->
 
-<h3 align="center">Languages, tools and framework</h3>
+<h3 align="center">Languages, tools and frameworks</h3>
 <!-- which I've used in previous projects   -->
 
 <h4 align="left">Robotics, Control Theory</h4>
@@ -50,7 +50,7 @@
 </p>
 
 
-<h4 align="left">AI: Machine Learning, Reinforcement Learning</h4>
+<h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
 <p align="center">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
