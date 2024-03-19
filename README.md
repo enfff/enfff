@@ -54,8 +54,8 @@ Checkout my
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
 
-- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of the distribuited neighborhood observer, and local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
-- [ROS Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
+- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
+- [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
