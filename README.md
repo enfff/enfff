@@ -13,8 +13,8 @@ Checkout my
 <a href="https://www.linkedin.com/in/fp-carmone/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="linkedin" width="13" height="13"/> Linkedin profile</a>!   
 <p>
 
-* Currently studying for a master's degree in Computer Engineering in Automation and Intelligent Cyber-Physical Systems. Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
-* Bachelor's degree in Ingegneria Informatica at Università degli Studi di Palermo. Here's the [study plan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjskIf1-eSBAxUThf0HHY2lA8EQFnoECBcQAQ&url=https%3A%2F%2Foffertaformativa.unipa.it%2Foffweb%2Freports%3Freport%3Dmanifesto.pdf%26oidCurriculum%3D18008%26lingua%3DITA&usg=AOvVaw1oKaRAOAVP_F0SH26nH07k&opi=89978449).
+* Currently studying for a master's degree in Computer Engineering in Automation and Intelligent Cyber-Physical Systems at [Politecnico di Torino](https://www.polito.it/). Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
+* Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjskIf1-eSBAxUThf0HHY2lA8EQFnoECBcQAQ&url=https%3A%2F%2Foffertaformativa.unipa.it%2Foffweb%2Freports%3Freport%3Dmanifesto.pdf%26oidCurriculum%3D18008%26lingua%3DITA&usg=AOvVaw1oKaRAOAVP_F0SH26nH07k&opi=89978449).
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
 * Genuinely fond of teamworking
 * Huge Linux fan
@@ -54,6 +54,7 @@ Checkout my
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
 
+- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of the distribuited neighborhood observer, and local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
 - [ROS Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
@@ -87,3 +88,5 @@ Checkout my
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>
 </p>
+
+- [QuickCapture](https://github.com/enfff/quickcapture-egui) a multiplatform screenshot utility written in Rust
