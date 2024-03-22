@@ -71,7 +71,6 @@ Checkout my
 - [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): a project developed using MuJoCo's Hopper Environment
 - [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs)
 
-
 <h4 align="left">Software Engineering and Web Development</h4>
 
 <p align="center">
@@ -90,3 +89,7 @@ Checkout my
 </p>
 
 - [QuickCapture](https://github.com/enfff/quickcapture-egui) a multiplatform screenshot utility written in Rust
+
+<h4 align="left">Other</h4>
+
+- [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
