@@ -55,6 +55,7 @@ Checkout my
 </p>
 
 - [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
+- [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control(NMPC)
 - [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
@@ -68,7 +69,7 @@ Checkout my
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
-- [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): a project developed using MuJoCo's Hopper Environment
+- [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): Reinforcement Learning project developed following GAN-like approach over the Hopper, a one-legged robot (Gym environment)
 - [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs)
 
 <h4 align="left">Software Engineering and Web Development</h4>
