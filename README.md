@@ -3,7 +3,6 @@
 <!-- <h4 align="center">( or, roughly speaking, Robotics)</h4> -->
 <p align="center">or, roughly speaking, Robotics</p>
 
-
 <!-- <img align="right"  alt="Coding" width=200 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
 <h4 align="left">Facts for recruiters</h4>
@@ -20,6 +19,7 @@ Checkout my
 * Huge Linux fan
 </p>
 <p>
+
 
 <h4 align="left">Facts for friends</h4>
 
@@ -96,3 +96,7 @@ Checkout my
 <h4 align="left">Other</h4>
 
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
+
+---
+
+![counter](https://komarev.com/ghpvc/?username=enfff&color=yellow)
