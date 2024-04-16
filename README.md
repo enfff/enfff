@@ -1,4 +1,4 @@
-<h1 align="center">Francesco Paolo Carmone</h1>
+
 <h3 align="center">Computer Engineering in Automation and Intelligent Cyber-Physical Systems</h3>
 <!-- <h4 align="center">( or, roughly speaking, Robotics)</h4> -->
 <p align="center">or, roughly speaking, Robotics</p>
