@@ -55,7 +55,7 @@ Checkout my
 </p>
 
 - [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
-- [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various nonlinear control techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control(NMPC)
+- [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various nonlinear control techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control (NMPC)
 - [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 - [Sensors, embedded systems and algorithms for Service Robotics](https://github.com/enfff/SESASR): **(work in progress)** Name is self-explicatory. Implemented in ROS2.
 
@@ -71,7 +71,7 @@ Checkout my
 </p>
 
 - [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): Reinforcement Learning project developed following GAN-like approach over the Hopper, a one-legged robot (Gym environment)
-- [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs)
+- [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs/tree/main/exercise3-qlearning-enfff)
 - [Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Object Detection task (converted from Instance Segmentation) for recognizing and classifying ships approaching harbours
 
 <h4 align="left">Software Engineering and Web Development</h4>
