@@ -21,6 +21,7 @@ Checkout my
 <p>
 
 
+<!-- ---
 <h4 align="left">Facts for friends</h4>
 
 * I always receive compliments for my cooking skills
@@ -29,6 +30,7 @@ Checkout my
 * Delusional ukulele player
 
 </p>
+--- -->
 
 <!-- ---
 
