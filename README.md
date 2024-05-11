@@ -74,7 +74,7 @@ Checkout my
 
 - [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): Reinforcement Learning project developed following GAN-like approach over the Hopper, a one-legged robot (Gym environment)
 - [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs/tree/main/exercise3-qlearning-enfff)
-- [Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Object Detection task (converted from Instance Segmentation) for recognizing and classifying ships approaching harbours
+- [Data Augmentation techniques for Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Using a simple Object Detection task solved via a Faster R-CNN,  we put major emphasis on less-known data augmentation techniques to increase the quality of the predictions, such as Bayesian Data Augmentation, and  Fourier transform-based data augmentation
 
 <h4 align="left">Software Engineering and Web Development</h4>
 
