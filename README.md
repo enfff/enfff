@@ -98,6 +98,7 @@ Checkout my
 <h4 align="left">Other</h4>
 
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
+- [Network Dynamics and Learning](https://github.com/enfff/pacman_tamagotchi): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
 
 ---
 
