@@ -93,7 +93,9 @@ Checkout my
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>
 </p>
 
-- [QuickCapture](https://github.com/enfff/quickcapture-egui) a multiplatform screenshot utility written in Rust
+- [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
+- [Employees List](https://github.com/enfff/employees-list): useless WebApp developed for deliberate practice using the [MERN Stack](https://www.educative.io/answers/what-is-mern-stack).
+- [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak.
 
 <h4 align="left">Other</h4>
 
