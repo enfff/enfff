@@ -102,4 +102,6 @@ Checkout my
 
 ---
 
-![counter](https://komarev.com/ghpvc/?username=enfff&color=yellow)
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=enfff&color=yellow"><img src="https://komarev.com/ghpvc/?username=enfff&color=yellow" alt="Profile views"></a>
+</p>
