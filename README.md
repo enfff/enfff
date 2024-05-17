@@ -17,7 +17,7 @@ Checkout my
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
 * Genuinely fond of teamworking
 * Huge Linux fan
-* Not afraid of GitHub conflicts!
+* Not afraid of Git conflicts!
 
 </p>
 <p>
