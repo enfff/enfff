@@ -103,6 +103,7 @@ Checkout my
 
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
 - [Network Dynamics and Learning](https://github.com/enfff/NDL): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
+- [OS161 Docker](https://github.com/enfff/os161): Clean replica of the OS161 Home folder you get after a fresh install, and instructions to get it running on a Linux machine
 
 ---
 
