@@ -96,14 +96,14 @@ Checkout my
 </p>
 
 - [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
-- [Employees List](https://github.com/enfff/employees-list): useless WebApp developed for deliberate practice using the [MERN Stack](https://www.educative.io/answers/what-is-mern-stack).
-- [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak.
+- [Employees List](https://github.com/enfff/employees-list): useless WebApp developed for deliberate practice using the [MERN Stack](https://www.educative.io/answers/what-is-mern-stack)
+- [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak
 
 <h4 align="left">Other</h4>
 
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
 - [Network Dynamics and Learning](https://github.com/enfff/NDL): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
-- [OS161 Docker](https://github.com/enfff/os161): Clean replica of the OS161 Home folder you get after a fresh install, and instructions to get it running on a Linux machine
+- [OS161 Docker](https://github.com/enfff/os161): Clean replica of the OS161 Home folder after a fresh install, and instructions to get it running on a Linux machine via Docker
 
 ---
 
