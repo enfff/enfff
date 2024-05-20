@@ -16,7 +16,7 @@ Checkout my
 * Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjskIf1-eSBAxUThf0HHY2lA8EQFnoECBcQAQ&url=https%3A%2F%2Foffertaformativa.unipa.it%2Foffweb%2Freports%3Freport%3Dmanifesto.pdf%26oidCurriculum%3D18008%26lingua%3DITA&usg=AOvVaw1oKaRAOAVP_F0SH26nH07k&opi=89978449).
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
 * Genuinely fond of teamworking
-* Huge Linux fan
+* Devoted Arch Linux fan
 * Not afraid of Git conflicts!
 
 </p>
@@ -58,10 +58,10 @@ Checkout my
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
 
-- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
-- [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various nonlinear control techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control (NMPC)
-- [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 - [Sensors, embedded systems and algorithms for Service Robotics](https://github.com/enfff/SESASR): **(work in progress)** Name is self-explicatory. Implemented in ROS2.
+- [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
+- [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various nonlinear control techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control (NMPC)
+- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
@@ -74,9 +74,9 @@ Checkout my
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
 
+- [Data Augmentation techniques for Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Using a simple Object Detection task solved via a Faster R-CNN,  we put major emphasis on less-known data augmentation techniques to increase the quality of the predictions, such as Bayesian Data Augmentation, and  Fourier transform-based data augmentation
 - [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): Reinforcement Learning project developed following GAN-like approach over the Hopper, a one-legged robot (Gym environment)
 - [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs/tree/main/exercise3-qlearning-enfff)
-- [Data Augmentation techniques for Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Using a simple Object Detection task solved via a Faster R-CNN,  we put major emphasis on less-known data augmentation techniques to increase the quality of the predictions, such as Bayesian Data Augmentation, and  Fourier transform-based data augmentation
 
 <h4 align="left">Software Engineering and Web Development</h4>
 
@@ -95,15 +95,15 @@ Checkout my
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>
 </p>
 
+- [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak
 - [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
 - [Employees List](https://github.com/enfff/employees-list): useless WebApp developed for deliberate practice using the [MERN Stack](https://www.educative.io/answers/what-is-mern-stack)
-- [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak
 
 <h4 align="left">Other</h4>
 
-- [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
 - [Network Dynamics and Learning](https://github.com/enfff/NDL): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
 - [OS161 Docker](https://github.com/enfff/os161): Clean replica of the OS161 Home folder after a fresh install, and instructions to get it running on a Linux machine via Docker
+- [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
 
 ---
 
