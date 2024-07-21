@@ -34,19 +34,20 @@ Checkout my
 </p>
 --- -->
 
-<!-- ---
+<!--
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enfff&show_icons=true&locale=en&layout=compact">
 </>
 
---- -->
+-->
 
 <h3 align="center">Languages, tools and frameworks</h3>
 <!-- which I've used in previous projects   -->
 
 <h4 align="left">Robotics, Control Theory</h4>
 
+<!--
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>   
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
@@ -57,6 +58,7 @@ Checkout my
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
+-->
 
 - [Sensors, embedded systems and algorithms for Service Robotics](https://github.com/enfff/SESASR): **(work in progress)** Name is self-explicatory. Implemented in ROS2.
 - [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
@@ -65,6 +67,7 @@ Checkout my
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
+<!--
 <p align="center">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -73,18 +76,20 @@ Checkout my
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 </p>
+-->
 
-- [Data Augmentation techniques for Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): (**work in progress**) Using a simple Object Detection task solved via a Faster R-CNN,  we put major emphasis on less-known data augmentation techniques to increase the quality of the predictions, such as Bayesian Data Augmentation, and  Fourier transform-based data augmentation
+- [Data Augmentation techniques for Airbus Ship Detection](https://github.com/enfff/airbus-ship-detection): Using a simple Object Detection task solved via a Faster R-CNN,  we put major emphasis on less-known data augmentation techniques to increase the quality of the predictions, such as Patch Gaussian, and  Fourier transform-based data augmentation
 - [Guided Domain Randomization through Adversarial Agent](https://github.com/enfff/rl-hopper): Reinforcement Learning project developed following GAN-like approach over the Hopper, a one-legged robot (Gym environment)
 - [QLearning, Policy Gradient methods](https://github.com/enfff/robot-learning-labs/tree/main/exercise3-qlearning-enfff)
 
 <h4 align="left">Software Engineering and Web Development</h4>
 
+<!-- 
+
 <p align="center">
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
@@ -94,6 +99,8 @@ Checkout my
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>
 </p>
+
+ -->
 
 - [Enfodoro](https://github.com/enfff/Enfodoro): (**work in progress**) pomodoro timer tailored for my needs. GNOME app (yes, with libadwaita), packaged as a flatpak
 - [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
