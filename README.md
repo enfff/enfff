@@ -13,7 +13,7 @@ Checkout my
 <p>
 
 * Currently studying for a master's degree in Computer Engineering in Automation and Intelligent Cyber-Physical Systems at [Politecnico di Torino](https://www.polito.it/). Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
-* Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjskIf1-eSBAxUThf0HHY2lA8EQFnoECBcQAQ&url=https%3A%2F%2Foffertaformativa.unipa.it%2Foffweb%2Freports%3Freport%3Dmanifesto.pdf%26oidCurriculum%3D18008%26lingua%3DITA&usg=AOvVaw1oKaRAOAVP_F0SH26nH07k&opi=89978449).
+* Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008).
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
 * Genuinely fond of teamworking
 * Devoted Arch Linux fan
