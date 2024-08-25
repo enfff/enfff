@@ -7,11 +7,6 @@
 
 <h4 align="left">Facts for recruiters</h4>
 
-<p align="left">
-Checkout my 
-<a href="https://www.linkedin.com/in/carmone/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="linkedin" width="13" height="13"/> Linkedin profile</a>!   
-<p>
-
 * Currently studying for a master's degree in Computer Engineering in Automation and Intelligent Cyber-Physical Systems at [Politecnico di Torino](https://www.polito.it/). Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
 * Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008).
 * I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
