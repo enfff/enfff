@@ -5,29 +5,12 @@
 
 <!-- <img align="right"  alt="Coding" width=200 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
-<h4 align="left">Facts for recruiters</h4>
-
 * Currently studying for a master's degree in Computer Engineering in Automation and Intelligent Cyber-Physical Systems at [Politecnico di Torino](https://www.polito.it/). Here's the [study plan](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18).
 * Bachelor's degree in Ingegneria Informatica at [Università degli Studi di Palermo](https://www.unipa.it/). Here's the [study plan](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008).
-* I can speak fluently 🇮🇹 and 🇬🇧, currently learning 🇫🇷
-* Genuinely fond of teamworking
-* Devoted Arch Linux fan
-* Not afraid of Git conflicts!
 
 </p>
 <p>
 
-
-<!-- ---
-<h4 align="left">Facts for friends</h4>
-
-* I always receive compliments for my cooking skills
-* Almost a gym rat, but just because I don't have the chance to swim
-* I like reading books and writing
-* Delusional ukulele player
-
-</p>
---- -->
 
 <!--
 
