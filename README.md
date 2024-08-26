@@ -2,7 +2,9 @@
 <!-- <h4 align="center">( or, roughly speaking, Robotics)</h4> -->
 <p align="center">or, roughly speaking, Robotics</p>
 
-<h4 align="left">About me</h4>
+
+<br>
+<!-- <h4 align="left">About me</h4> -->
 
 <!-- <img align="right"  alt="Coding" width=200 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
@@ -91,7 +93,9 @@
 - [OS161 Docker](https://github.com/enfff/os161): Clean replica of the OS161 Home folder after a fresh install, and instructions to get it running on a Linux machine via Docker
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
 
----
+
+<br>
+<br>
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=enfff&color=yellow"><img src="https://komarev.com/ghpvc/?username=enfff&color=yellow" alt="Profile views"></a>
