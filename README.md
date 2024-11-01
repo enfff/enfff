@@ -19,7 +19,7 @@
 - [Sensors, embedded systems and algorithms for Service Robotics](https://github.com/enfff/SESASR): **(work in progress)** Name is self-explicatory -  implemented in ROS2
 - [ROS1 Implementation of the Extended Kalman Filter](https://github.com/enfff/robot-learning-labs/tree/main/exercise1-ekf-enfff)
 - [Nonlinear Control and Aereospace Applications](https://github.com/enfff/NLCAA): **(work in progress)** MATLAB/Simulink implementation of various nonlinear control techniques including Feedback Linearization (FL), Sliding Mode Control (SMC), Nonlinear Model Predictive Control (NMPC)
-- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distribuited neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
+- [Modeling and Control of a Cyber-Physical System](https://github.com/enfff/cps-project): implementation of a controller with two approaches based on: 1. a distributed neighborhood observer, and 2. local observer; implementation of the iterative threshold-shrinkage operator to solve sparse attacks on sensor measurements and target localization
 
 <h4 align="left">Artificial Intelligence: Machine Learning, Reinforcement Learning</h4>
 
