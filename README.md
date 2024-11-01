@@ -31,7 +31,7 @@
 
 - [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
 - [Network Dynamics and Learning](https://github.com/enfff/NDL): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
-- [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on a ARM board
+- [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on an ARM board
 
 
 <br>
