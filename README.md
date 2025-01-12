@@ -30,7 +30,7 @@
 
 <h4 align="left">Other</h4>
 
-- [Laurea](https://enfff.github.io/laurea/): a static React/Bootstrap webapp to promote upcoming graduation
+- [Laurea](https://enfff.github.io/laurea/) *(wip)* : a static React/Bootstrap webapp to promote upcoming graduation
 - [Sorter](https://github.com/enfff/sorter): a GTK4/Libadwaita app to sort images, useful with generative AI models
 - [QuickCapture](https://github.com/enfff/quickcapture-egui): a multiplatform screenshot utility written in Rust
 - [Network Dynamics and Learning](https://github.com/enfff/NDL): collection of mini-projects dealing with Network Dynamics, covering topics such as Flow Dynamics, French De-Groot learning models, matchings, Random Graphs, Markov Chains, Epidemic Models
