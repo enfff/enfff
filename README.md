@@ -1,11 +1,11 @@
-<!-- <h1 align="left">Francesco</h1> -->
-<h3 align="center">Computer Engineer in Automation and Intelligent Cyber-Physical Systems¹</h3>
+<h1 align="left">Francesco</h1>
+<!-- <h3 align="center">Computer Engineer in Automation and Intelligent Cyber-Physical Systems¹</h3> -->
 <!-- <h4 align="center">( or, roughly speaking, Robotics)</h4> -->
 
 <br>
 
-* Currently studying for a master's degree in [Computer Engineering in Automation and Intelligent Cyber-Physical Systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18) at [Politecnico di Torino](https://www.polito.it/).
-* Bachelor's degree in [Ingegneria Informatica](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008) at [Università degli Studi di Palermo](https://www.unipa.it/).
+* Master in [Computer Engineering in Automation and Intelligent Cyber-Physical Systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18) at [Politecnico di Torino](https://www.polito.it/).
+* Bachelor in [Ingegneria Informatica](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008) at [Università degli Studi di Palermo](https://www.unipa.it/).
 
 </p>
 
@@ -14,7 +14,7 @@
 <h3 align="center">Past Projects</h3>
 <!-- which I've used in previous projects   -->
 
-<h4 align="left">Robotics, Control Theory</h4>
+<!-- <h4 align="left">Robotics, Control Theory</h4>
 
 - Enhance Security with Robots and AI: *(Master's Thesis)* development of a software solution for autonomous patrolling of any robot, as well as running inference of AI models within the embedded Nvdia Jetson and the DeepStream SDK
 - [Sensors, embedded systems and algorithms for Service Robotics](https://github.com/enfff/SESASR): Name is self-explicatory -  implemented in ROS2
@@ -37,7 +37,7 @@
 - [Pacman Tamagotchi](https://github.com/enfff/pacman_tamagotchi): videogame developed on an ARM board
 
 <br>
-<br>
+<br> -->
 
 <p align="center">
 <a href="https://komarev.com/ghpvc/?username=enfff&color=yellow"><img src="https://komarev.com/ghpvc/?username=enfff&color=yellow" alt="Profile views"></a>
