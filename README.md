@@ -12,7 +12,7 @@
 
 <p>
 
-<h3 align="center">Past Projects</h3>
+<!-- <h3 align="center">Past Projects</h3> -->
 <!-- which I've used in previous projects   -->
 
 <!-- <h4 align="left">Robotics, Control Theory</h4>
