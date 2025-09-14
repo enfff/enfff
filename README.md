@@ -4,9 +4,9 @@
 
 <br>
 
-* Robot Engineer in [Concept Reply](https://www.reply.com/concept-reply/en).
-* Master in [Computer Engineering in Automation and Intelligent Cyber-Physical Systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18)¹ at [Politecnico di Torino](https://www.polito.it/).
-* Bachelor in [Ingegneria Informatica](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008) at [Università degli Studi di Palermo](https://www.unipa.it/).
+* Robot Engineer at [Concept Reply](https://www.reply.com/concept-reply/en).
+* Master in [Computer Engineering in Automation and Intelligent Cyber-Physical Systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18)¹, [Politecnico di Torino](https://www.polito.it/).
+* Bachelor in [Ingegneria Informatica](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008), [Università degli Studi di Palermo](https://www.unipa.it/).
 
 </p>
 
@@ -44,4 +44,4 @@
 <a href="https://komarev.com/ghpvc/?username=enfff&color=yellow"><img src="https://komarev.com/ghpvc/?username=enfff&color=yellow" alt="Profile views"></a>
 </p>
 
-<p align="left">¹roughly speaking, it's Robotics</p>
+<p align="left">¹ roughly speaking, it's Robotics</p>
