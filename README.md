@@ -4,7 +4,7 @@
 
 <br>
 
-* Robot Engineer at [Concept Reply](https://www.reply.com/concept-reply/en).
+* Robot Engineer at [Roboverse Reply](https://www.linkedin.com/company/roboverse-reply-it).
 * Master in [Computer Engineering in Automation and Intelligent Cyber-Physical Systems](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa_2019.vis?p_a_acc=2023&p_sdu=37&p_cds=18)¹, [Politecnico di Torino](https://www.polito.it/).
 * Bachelor in [Ingegneria Informatica](https://offertaformativa.unipa.it/offweb/public/corso/visualizzaCurriculum.seam?cid=19060&oidCurriculum=18008), [Università degli Studi di Palermo](https://www.unipa.it/).
 
